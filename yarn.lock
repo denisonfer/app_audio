@@ -5726,6 +5726,11 @@ react-native-safe-modules@^1.0.3:
   dependencies:
     dedent "^0.6.0"
 
+react-native-sound@^0.11.2:
+  version "0.11.2"
+  resolved "https://registry.yarnpkg.com/react-native-sound/-/react-native-sound-0.11.2.tgz#e542dc5b9e16ab4b3ac7e6eaddb1fc8d98da9038"
+  integrity sha512-LmGc8lgOK3qecYMVQpyHvww/C+wgT6sWeMpVbOe4NCRGC2yKd4fo4U0KBUo9PO7AqKESO3I/2GZg1/C0+bwiiA==
+
 react-native-track-player@^2.2.0-rc4:
   version "2.2.0-rc4"
   resolved "https://registry.yarnpkg.com/react-native-track-player/-/react-native-track-player-2.2.0-rc4.tgz#bd96c15e411578b3d69e96304ad04cdf175b1661"
